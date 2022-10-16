@@ -110,10 +110,10 @@ def gstr2bjson_to_google_sheets(gstr2b_file, sheet_name, spreadsheet_id, row_num
 
 
 if __name__ == "__main__":
-    gstr2b_file = "returns_R2B_22AEZPA0778G1ZF_072022.json"
+    gstr2b_file = "returns_R2B_22AEZPA0778G1ZF_092022.json"
 
     spreadsheet_id = "1ZKTc8KJn5O7q7L8U2fUDXAYDHML0AmI7a5T8tWeKBr8"
-    sheet_name = "July 2022"
+    sheet_name = "September 2022"
     row_num = 8
 
     if gstr2b_file is not None:
